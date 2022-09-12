@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jithesh944 Jithesh Sunny
-- 👀 I’m interested in Python programming for web development , ML, Data science 
-- 🌱 I’m currently learning multiple stechnologies includes GO Lang, GCP, Python
-- 💞️ I’m looking to collaborate on python development 
+- 🌱 I’m currently learning multiple stechnologies includes Python, R, Pyspark, Matlab
+- 👀 I’m interested in Python programming for Data science, AI, ML and Web development
+- 💞️ I’m looking to collaborate on data scientist roles
 - 📫 How to reach me : Jithesh944@gmail.com
 
 <!---
